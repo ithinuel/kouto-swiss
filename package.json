@@ -100,7 +100,7 @@
     "node": "*"
   },
   "dependencies": {
-    "prefiks": "^0.3",
+    "prefiks": "ithinuel/prefiks",
     "stylus": "0.54.5"
   },
   "devDependencies": {
